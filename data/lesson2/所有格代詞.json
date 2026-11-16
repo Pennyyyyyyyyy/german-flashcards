@@ -1,0 +1,38 @@
+[
+  {
+    "id": "lesson2-36",
+    "word": "dein-",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "你的",
+    "pos": [
+      "所有格 代詞"
+    ],
+    "ref": "Lektion2 - B2"
+  },
+  {
+    "id": "lesson2-37",
+    "word": "Ihr-",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "您的",
+    "pos": [
+      "所有格 代詞"
+    ],
+    "ref": "Lektion2 - B2"
+  },
+  {
+    "id": "lesson2-38",
+    "word": "mein-",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "我的",
+    "pos": [
+      "所有格 代詞"
+    ],
+    "ref": "Lektion2 - B2"
+  }
+]

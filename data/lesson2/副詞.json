@@ -1,0 +1,123 @@
+[
+  {
+    "id": "lesson2-2",
+    "word": "auch",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "也",
+    "pos": [
+      "副詞",
+      "助詞"
+    ],
+    "ref": "Lektion2 - 1"
+  },
+  {
+    "id": "lesson2-21",
+    "word": "sehr",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "非常",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - A1"
+  },
+  {
+    "id": "lesson2-22",
+    "word": "so",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "極",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - A1"
+  },
+  {
+    "id": "lesson2-40",
+    "word": "genau",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "正是",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - B3"
+  },
+  {
+    "id": "lesson2-45",
+    "word": "jetzt",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "現在",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - C1"
+  },
+  {
+    "id": "lesson2-49",
+    "word": "zusammen",
+    "articles": [],
+    "plural": null,
+    "syllables": 3,
+    "zh": "一起",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - C1"
+  },
+  {
+    "id": "lesson2-68",
+    "word": "hier",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "這裡",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - E2"
+  },
+  {
+    "id": "lesson2-69",
+    "word": "schon",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "已經",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - E2"
+  },
+  {
+    "id": "lesson2-73",
+    "word": "lange",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "很久",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - E2"
+  },
+  {
+    "id": "lesson2-75",
+    "word": "zurzeit",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "目前",
+    "pos": [
+      "副詞"
+    ],
+    "ref": "Lektion2 - E2"
+  }
+]

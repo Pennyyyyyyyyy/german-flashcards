@@ -1,0 +1,1012 @@
+[
+  {
+    "id": "lesson3-2",
+    "word": "Ei",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "蛋",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 1"
+  },
+  {
+    "id": "lesson3-3",
+    "word": "Mehl",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "麵粉",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 1"
+  },
+  {
+    "id": "lesson3-4",
+    "word": "Milch",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "牛奶",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 1"
+  },
+  {
+    "id": "lesson3-5",
+    "word": "Butter",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "奶油",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 1"
+  },
+  {
+    "id": "lesson3-6",
+    "word": "Zucker",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "糖",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 1"
+  },
+  {
+    "id": "lesson3-7",
+    "word": "Banane",
+    "articles": [
+      "die"
+    ],
+    "plural": "Bananen",
+    "syllables": 3,
+    "zh": "香蕉",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 1"
+  },
+  {
+    "id": "lesson3-8",
+    "word": "Pfannkuchen",
+    "articles": [
+      "der"
+    ],
+    "plural": "Pfannkuchen",
+    "syllables": 3,
+    "zh": "薄餅",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 1"
+  },
+  {
+    "id": "lesson3-9",
+    "word": "Schokolade",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 4,
+    "zh": "巧克力",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 1"
+  },
+  {
+    "id": "lesson3-13",
+    "word": "Euro",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "歐元",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 3"
+  },
+  {
+    "id": "lesson3-15",
+    "word": "Hunger",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "飢餓",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 3"
+  },
+  {
+    "id": "lesson3-16",
+    "word": "Welt",
+    "articles": [
+      "die"
+    ],
+    "plural": "Welten",
+    "syllables": 1,
+    "zh": "世界",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - 4"
+  },
+  {
+    "id": "lesson3-19",
+    "word": "Saft",
+    "articles": [
+      "der"
+    ],
+    "plural": "Säfte",
+    "syllables": 1,
+    "zh": "果汁",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-20",
+    "word": "Apfel",
+    "articles": [
+      "der"
+    ],
+    "plural": "Äpfel",
+    "syllables": 2,
+    "zh": "蘋果",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-21",
+    "word": "Birne",
+    "articles": [
+      "die"
+    ],
+    "plural": "Birnen",
+    "syllables": 2,
+    "zh": "梨子",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-22",
+    "word": "Brötchen",
+    "articles": [
+      "das"
+    ],
+    "plural": "Brötchen",
+    "syllables": 2,
+    "zh": "小麵包",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-23",
+    "word": "Kaffee",
+    "articles": [
+      "der"
+    ],
+    "plural": "Kaffees",
+    "syllables": 2,
+    "zh": "咖啡",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-24",
+    "word": "Kuchen",
+    "articles": [
+      "der"
+    ],
+    "plural": "Kuchen",
+    "syllables": 2,
+    "zh": "蛋糕",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-25",
+    "word": "Würstchen",
+    "articles": [
+      "das"
+    ],
+    "plural": "Würstchen",
+    "syllables": 2,
+    "zh": "小香腸",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-26",
+    "word": "Orange",
+    "articles": [
+      "die"
+    ],
+    "plural": "Orangen",
+    "syllables": 3,
+    "zh": "柳橙",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-27",
+    "word": "Tomate",
+    "articles": [
+      "die"
+    ],
+    "plural": "Tomaten",
+    "syllables": 3,
+    "zh": "蕃茄",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - A2"
+  },
+  {
+    "id": "lesson3-28",
+    "word": "Brot",
+    "articles": [
+      "das"
+    ],
+    "plural": "Brote",
+    "syllables": 1,
+    "zh": "麵包",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - B2"
+  },
+  {
+    "id": "lesson3-29",
+    "word": "Fisch",
+    "articles": [
+      "der"
+    ],
+    "plural": "Fische",
+    "syllables": 1,
+    "zh": "魚",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - B3"
+  },
+  {
+    "id": "lesson3-30",
+    "word": "Joghurt",
+    "articles": [
+      "der",
+      "das"
+    ],
+    "plural": "Joghurts",
+    "syllables": 2,
+    "zh": "優格",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - B3"
+  },
+  {
+    "id": "lesson3-31",
+    "word": "Zwiebel",
+    "articles": [
+      "die"
+    ],
+    "plural": "Zwiebeln",
+    "syllables": 2,
+    "zh": "洋蔥",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - B3"
+  },
+  {
+    "id": "lesson3-32",
+    "word": "Kartoffel",
+    "articles": [
+      "die"
+    ],
+    "plural": "Kartoffeln",
+    "syllables": 3,
+    "zh": "馬鈴薯",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - B3"
+  },
+  {
+    "id": "lesson3-33",
+    "word": "Regal",
+    "articles": [
+      "das"
+    ],
+    "plural": "Regale",
+    "syllables": 2,
+    "zh": "架子",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - B4"
+  },
+  {
+    "id": "lesson3-34",
+    "word": "Obst",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "水果",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C1"
+  },
+  {
+    "id": "lesson3-35",
+    "word": "Salz",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "鹽巴",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C1"
+  },
+  {
+    "id": "lesson3-36",
+    "word": "Tee",
+    "articles": [
+      "der"
+    ],
+    "plural": "Tees",
+    "syllables": 1,
+    "zh": "茶",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C1"
+  },
+  {
+    "id": "lesson3-37",
+    "word": "Käse",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "乳酪",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C1"
+  },
+  {
+    "id": "lesson3-38",
+    "word": "Gemüse",
+    "articles": [
+      "das"
+    ],
+    "plural": "Gemüse/ x",
+    "syllables": 3,
+    "zh": "蔬菜",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C1"
+  },
+  {
+    "id": "lesson3-39",
+    "word": "Bier",
+    "articles": [
+      "das"
+    ],
+    "plural": "Biere",
+    "syllables": 1,
+    "zh": "啤酒",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C2"
+  },
+  {
+    "id": "lesson3-40",
+    "word": "Fleisch",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "肉",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C2"
+  },
+  {
+    "id": "lesson3-41",
+    "word": "Reis",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "米飯",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C2"
+  },
+  {
+    "id": "lesson3-42",
+    "word": "Wein",
+    "articles": [
+      "der"
+    ],
+    "plural": "Weine",
+    "syllables": 1,
+    "zh": "葡萄酒",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C2"
+  },
+  {
+    "id": "lesson3-43",
+    "word": "Wasser",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "水",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C2"
+  },
+  {
+    "id": "lesson3-44",
+    "word": "Mineralwasser",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 5,
+    "zh": "礦泉水",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - C2"
+  },
+  {
+    "id": "lesson3-45",
+    "word": "Cent",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "分（金錢單位）",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D1"
+  },
+  {
+    "id": "lesson3-46",
+    "word": "Preis",
+    "articles": [
+      "der"
+    ],
+    "plural": "Preise",
+    "syllables": 1,
+    "zh": "價格",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D1"
+  },
+  {
+    "id": "lesson3-47",
+    "word": "Gramm",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "公克",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-48",
+    "word": "Pfund",
+    "articles": [
+      "das"
+    ],
+    "plural": "Pfunde",
+    "syllables": 1,
+    "zh": "磅",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-49",
+    "word": "Wurst",
+    "articles": [
+      "die"
+    ],
+    "plural": "Würste",
+    "syllables": 1,
+    "zh": "香腸",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-50",
+    "word": "Öl",
+    "articles": [
+      "das"
+    ],
+    "plural": "Ôle",
+    "syllables": 1,
+    "zh": "油",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-51",
+    "word": "Dose",
+    "articles": [
+      "die"
+    ],
+    "plural": "Dosen",
+    "syllables": 2,
+    "zh": "罐",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-52",
+    "word": "Flasche",
+    "articles": [
+      "die"
+    ],
+    "plural": "Flaschen",
+    "syllables": 2,
+    "zh": "瓶子",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-53",
+    "word": "Hackfleisch",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "絞肉",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-55",
+    "word": "Liter",
+    "articles": [
+      "der"
+    ],
+    "plural": "Liter",
+    "syllables": 2,
+    "zh": "公升",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-56",
+    "word": "Prospekt",
+    "articles": [
+      "der"
+    ],
+    "plural": "Prospekte",
+    "syllables": 2,
+    "zh": "價目表",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-57",
+    "word": "Sahne",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "鮮奶油",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-59",
+    "word": "Abteilung",
+    "articles": [
+      "die"
+    ],
+    "plural": "Abteilungen",
+    "syllables": 3,
+    "zh": "部門",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-60",
+    "word": "Kilogramm",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 3,
+    "zh": "公斤",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-61",
+    "word": "Lebensmittel",
+    "articles": [
+      "das"
+    ],
+    "plural": "Lebensmittel",
+    "syllables": 4,
+    "zh": "生活必需品",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-62",
+    "word": "Sonderangebot",
+    "articles": [
+      "das"
+    ],
+    "plural": "Sonderangebote",
+    "syllables": 5,
+    "zh": "特價（品）",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-63",
+    "word": "Mensa",
+    "articles": [
+      "die"
+    ],
+    "plural": "Mensen",
+    "syllables": 2,
+    "zh": "學生餐廳",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E1"
+  },
+  {
+    "id": "lesson3-64",
+    "word": "Restaurant",
+    "articles": [
+      "die"
+    ],
+    "plural": "Restaurants",
+    "syllables": 3,
+    "zh": "餐廳",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E1"
+  },
+  {
+    "id": "lesson3-65",
+    "word": "Durst",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "口渴",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-66",
+    "word": "Glas",
+    "articles": [
+      "das"
+    ],
+    "plural": "Gläser",
+    "syllables": 1,
+    "zh": "玻璃杯",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-67",
+    "word": "Steak",
+    "articles": [
+      "das"
+    ],
+    "plural": "Steaks",
+    "syllables": 1,
+    "zh": "牛排",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-68",
+    "word": "Cola",
+    "articles": [
+      "das",
+      "die"
+    ],
+    "plural": "Colas",
+    "syllables": 2,
+    "zh": "可樂",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-70",
+    "word": "Hähnchen",
+    "articles": [
+      "das"
+    ],
+    "plural": "Hähnschen",
+    "syllables": 2,
+    "zh": "烤雞",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-71",
+    "word": "Pizza",
+    "articles": [
+      "die"
+    ],
+    "plural": "Pizzen",
+    "syllables": 2,
+    "zh": "披薩",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-72",
+    "word": "Pommes",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "薯條",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-73",
+    "word": "Pommes frites",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "薯條",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-74",
+    "word": "Salat",
+    "articles": [
+      "der"
+    ],
+    "plural": "Salate",
+    "syllables": 2,
+    "zh": "沙拉",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-75",
+    "word": "Soße",
+    "articles": [
+      "die"
+    ],
+    "plural": "Soßen",
+    "syllables": 2,
+    "zh": "醬汁",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-79",
+    "word": "Tag",
+    "articles": [
+      "der"
+    ],
+    "plural": "Tage",
+    "syllables": 1,
+    "zh": "日子",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-81",
+    "word": "Essen",
+    "articles": [
+      "das"
+    ],
+    "plural": "Essen",
+    "syllables": 2,
+    "zh": "食物",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-84",
+    "word": "Pfeffer",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "胡椒",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-86",
+    "word": "Rezept",
+    "articles": [
+      "das"
+    ],
+    "plural": "Rezepte",
+    "syllables": 2,
+    "zh": "食譜",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-88",
+    "word": "Suppe",
+    "articles": [
+      "die"
+    ],
+    "plural": "Suppen",
+    "syllables": 2,
+    "zh": "湯",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-92",
+    "word": "Portion",
+    "articles": [
+      "die"
+    ],
+    "plural": "Portionen",
+    "syllables": 3,
+    "zh": "一份",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-95",
+    "word": "Getränk",
+    "articles": [
+      "das"
+    ],
+    "plural": "Getränke",
+    "syllables": 2,
+    "zh": "飲料",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion3 - E4"
+  }
+]

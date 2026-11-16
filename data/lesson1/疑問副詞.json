@@ -1,0 +1,38 @@
+[
+  {
+    "id": "lesson1-19",
+    "word": "wie",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "如何",
+    "pos": [
+      "疑問副詞"
+    ],
+    "ref": "Lektion1 - B2"
+  },
+  {
+    "id": "lesson1-32",
+    "word": "woher",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "從哪裡",
+    "pos": [
+      "疑問副詞"
+    ],
+    "ref": "Lektion1 - C1"
+  },
+  {
+    "id": "lesson1-37",
+    "word": "was",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "什麼",
+    "pos": [
+      "疑問副詞"
+    ],
+    "ref": "Lektion1 - C4"
+  }
+]

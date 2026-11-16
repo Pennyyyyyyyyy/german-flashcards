@@ -1,0 +1,546 @@
+[
+  {
+    "id": "lesson1-2",
+    "word": "Foto",
+    "articles": [
+      "das"
+    ],
+    "plural": "Fotos",
+    "syllables": 2,
+    "zh": "照片",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - 1"
+  },
+  {
+    "id": "lesson1-8",
+    "word": "Frau",
+    "articles": [
+      "die"
+    ],
+    "plural": "Frauen",
+    "syllables": 1,
+    "zh": "女士；妻子",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - A2"
+  },
+  {
+    "id": "lesson1-9",
+    "word": "Herr",
+    "articles": [
+      "der"
+    ],
+    "plural": "Herren",
+    "syllables": 1,
+    "zh": "先生；男士",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - A2"
+  },
+  {
+    "id": "lesson1-10",
+    "word": "Abend",
+    "articles": [
+      "der"
+    ],
+    "plural": "Abende",
+    "syllables": 2,
+    "zh": "傍晚；晚上",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - A2"
+  },
+  {
+    "id": "lesson1-11",
+    "word": "Dame",
+    "articles": [
+      "die"
+    ],
+    "plural": "Damen",
+    "syllables": 2,
+    "zh": "女士",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - A2"
+  },
+  {
+    "id": "lesson1-12",
+    "word": "Musik",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "音樂",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - A2"
+  },
+  {
+    "id": "lesson1-15",
+    "word": "Ich",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "我；自己",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - B1"
+  },
+  {
+    "id": "lesson1-17",
+    "word": "Name",
+    "articles": [
+      "der"
+    ],
+    "plural": "Namen",
+    "syllables": 2,
+    "zh": "名字",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - B1"
+  },
+  {
+    "id": "lesson1-20",
+    "word": "Entschuldigung",
+    "articles": [
+      "die"
+    ],
+    "plural": "Entschuldigungen",
+    "syllables": 4,
+    "zh": "抱歉",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - B2"
+  },
+  {
+    "id": "lesson1-27",
+    "word": "Schweiz",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "瑞士",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - C1"
+  },
+  {
+    "id": "lesson1-29",
+    "word": "Deutschland",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "德國",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - C1"
+  },
+  {
+    "id": "lesson1-30",
+    "word": "Firma",
+    "articles": [
+      "die"
+    ],
+    "plural": "Firmen",
+    "syllables": 2,
+    "zh": "公司",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - C1"
+  },
+  {
+    "id": "lesson1-33",
+    "word": "Österreich",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 3,
+    "zh": "奧地利",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - C1"
+  },
+  {
+    "id": "lesson1-38",
+    "word": "Sprache",
+    "articles": [
+      "die"
+    ],
+    "plural": "Sprachen",
+    "syllables": 2,
+    "zh": "語言",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - C4"
+  },
+  {
+    "id": "lesson1-40",
+    "word": "Alphabet",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 3,
+    "zh": "字母表",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - D1"
+  },
+  {
+    "id": "lesson1-41",
+    "word": "Buchstabe",
+    "articles": [
+      "der"
+    ],
+    "plural": "Buchstaben",
+    "syllables": 3,
+    "zh": "字母",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - D1"
+  },
+  {
+    "id": "lesson1-44",
+    "word": "Dank",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "感謝",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - D3"
+  },
+  {
+    "id": "lesson1-45",
+    "word": "Moment",
+    "articles": [
+      "der"
+    ],
+    "plural": "Momente",
+    "syllables": 2,
+    "zh": "片刻",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - D3"
+  },
+  {
+    "id": "lesson1-46",
+    "word": "Fax",
+    "articles": [
+      "das"
+    ],
+    "plural": "Faxe",
+    "syllables": 1,
+    "zh": "傳真",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-47",
+    "word": "Land",
+    "articles": [
+      "das"
+    ],
+    "plural": "Länder",
+    "syllables": 1,
+    "zh": "國家",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-48",
+    "word": "Sport",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 1,
+    "zh": "運動",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-49",
+    "word": "Stadt",
+    "articles": [
+      "die"
+    ],
+    "plural": "Städte",
+    "syllables": 1,
+    "zh": "城市",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-50",
+    "word": "E-Mail",
+    "articles": [
+      "die"
+    ],
+    "plural": "E-Mails",
+    "syllables": 2,
+    "zh": "電子郵件",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-51",
+    "word": "Straße",
+    "articles": [
+      "die"
+    ],
+    "plural": "Straßen",
+    "syllables": 2,
+    "zh": "街道",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-52",
+    "word": "Adresse",
+    "articles": [
+      "die"
+    ],
+    "plural": "Adressen",
+    "syllables": 3,
+    "zh": "地址",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-53",
+    "word": "Telefon",
+    "articles": [
+      "das"
+    ],
+    "plural": "Telefone",
+    "syllables": 3,
+    "zh": "電話",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-54",
+    "word": "Vorname",
+    "articles": [
+      "der"
+    ],
+    "plural": "Vornamen",
+    "syllables": 3,
+    "zh": "(姓氏之前的)名字",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-55",
+    "word": "Visitenkarte",
+    "articles": [
+      "die"
+    ],
+    "plural": "Visitenkarten",
+    "syllables": 5,
+    "zh": "名片",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-56",
+    "word": "Familienname",
+    "articles": [
+      "der"
+    ],
+    "plural": "Familiennamen",
+    "syllables": 6,
+    "zh": "姓氏",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E1"
+  },
+  {
+    "id": "lesson1-57",
+    "word": "China",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "中國",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-58",
+    "word": "Frankreich",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "法國",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-59",
+    "word": "Polen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "波蘭",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-60",
+    "word": "Russland",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "俄國",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-61",
+    "word": "Türkei",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "土耳其",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-62",
+    "word": "Formular",
+    "articles": [
+      "das"
+    ],
+    "plural": "Formulare",
+    "syllables": 3,
+    "zh": "表格",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-63",
+    "word": "Griechenland",
+    "articles": [],
+    "plural": null,
+    "syllables": 3,
+    "zh": "希臘",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-64",
+    "word": "Postleitzahl",
+    "articles": [
+      "die"
+    ],
+    "plural": "Postleitzahlen",
+    "syllables": 3,
+    "zh": "郵政編碼",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-65",
+    "word": "Spanien",
+    "articles": [],
+    "plural": null,
+    "syllables": 3,
+    "zh": "西班牙",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-66",
+    "word": "Italien",
+    "articles": [],
+    "plural": null,
+    "syllables": 4,
+    "zh": "義大利",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  },
+  {
+    "id": "lesson1-67",
+    "word": "Großbritannien",
+    "articles": [],
+    "plural": null,
+    "syllables": 5,
+    "zh": "英國",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion1 - E2"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "lesson2-4",
+    "word": "haben",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "有",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion2 - 1"
+  },
+  {
+    "id": "lesson2-6",
+    "word": "lernen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "學習",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion2 - 1"
+  },
+  {
+    "id": "lesson2-13",
+    "word": "leben",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "生活",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-47",
+    "word": "wohnen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "居住",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion2 - C1"
+  },
+  {
+    "id": "lesson2-58",
+    "word": "liegen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "位於",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-72",
+    "word": "kennen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "認識",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion2 - E2"
+  }
+]

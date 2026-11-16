@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lesson1-18",
+    "word": "Sie",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "您",
+    "pos": [
+      "代詞"
+    ],
+    "ref": "Lektion1 - B2"
+  },
+  {
+    "id": "lesson1-26",
+    "word": "du",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "你",
+    "pos": [
+      "代詞"
+    ],
+    "ref": "Lektion1 - C1"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "lesson1-3",
+    "word": "Guten Tag.",
+    "articles": [],
+    "plural": null,
+    "syllables": null,
+    "zh": "日安",
+    "pos": [
+      "未分類"
+    ],
+    "ref": "Lektion1 - 1"
+  },
+  {
+    "id": "lesson1-4",
+    "word": "Auf Wiedersehen.",
+    "articles": [],
+    "plural": null,
+    "syllables": null,
+    "zh": "再見(正式)",
+    "pos": [
+      "未分類"
+    ],
+    "ref": "Lektion1 - 1"
+  },
+  {
+    "id": "lesson1-5",
+    "word": "hallo",
+    "articles": [],
+    "plural": null,
+    "syllables": null,
+    "zh": "哈囉",
+    "pos": [
+      "未分類"
+    ],
+    "ref": "Lektion1 - 1"
+  },
+  {
+    "id": "lesson1-6",
+    "word": "tschüs=tschüss=tschüß",
+    "articles": [],
+    "plural": null,
+    "syllables": null,
+    "zh": "再見(不正式，近似口語拜拜)",
+    "pos": [
+      "未分類"
+    ],
+    "ref": "Lektion1 - 1"
+  }
+]

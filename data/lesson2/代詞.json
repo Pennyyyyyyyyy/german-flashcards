@@ -1,0 +1,50 @@
+[
+  {
+    "id": "lesson2-44",
+    "word": "er",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "他",
+    "pos": [
+      "代詞"
+    ],
+    "ref": "Lektion2 - C1"
+  },
+  {
+    "id": "lesson2-46",
+    "word": "sie",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "她（單數）；他們（複數）",
+    "pos": [
+      "代詞"
+    ],
+    "ref": "Lektion2 - C1"
+  },
+  {
+    "id": "lesson2-50",
+    "word": "ihr",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "你們",
+    "pos": [
+      "代詞"
+    ],
+    "ref": "Lektion2 - C3"
+  },
+  {
+    "id": "lesson2-51",
+    "word": "wir",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "我們",
+    "pos": [
+      "代詞"
+    ],
+    "ref": "Lektion2 - C3"
+  }
+]

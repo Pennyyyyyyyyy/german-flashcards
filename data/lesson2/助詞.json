@@ -1,0 +1,27 @@
+[
+  {
+    "id": "lesson2-2",
+    "word": "auch",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "也",
+    "pos": [
+      "副詞",
+      "助詞"
+    ],
+    "ref": "Lektion2 - 1"
+  },
+  {
+    "id": "lesson2-71",
+    "word": "also",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "如此",
+    "pos": [
+      "助詞"
+    ],
+    "ref": "Lektion2 - E2"
+  }
+]

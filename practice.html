@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>練習 · 德文字卡</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main class="container">
+    <header class="site centered">
+      <a class="back" href="index.html">← 所有課程</a>
+      <h1 id="title">練習</h1>
+    </header>
+
+    <section class="panel">
+      <div class="row">
+        <span class="label">模式</span>
+        <div class="seg" id="mode">
+          <button data-mode="cards" class="on">字卡</button>
+          <button data-mode="gender">猜性別</button>
+        </div>
+      </div>
+      <div class="row" id="pos-row">
+        <span class="label">詞性</span>
+        <label><input type="checkbox" id="pos-all" checked> <strong>全選</strong></label>
+        <span id="pos-list" style="display:contents"></span>
+      </div>
+      <div class="row">
+        <span class="label">選項</span>
+        <label id="show-article-wrap"><input type="checkbox" id="show-article"> 正面顯示冠詞</label>
+        <label><input type="checkbox" id="shuffle" checked> 隨機順序</label>
+      </div>
+    </section>
+
+    <!-- 字卡模式 -->
+    <section id="cards-view">
+      <div class="stage">
+        <div class="card" id="card" tabindex="0" aria-label="點一下翻面">
+          <div class="face front-face" id="front"></div>
+          <div class="face back-face" id="back"></div>
+        </div>
+      </div>
+      <div class="controls">
+        <button class="btn" id="prev">← 上一張</button>
+        <span class="progress" id="progress"></span>
+        <button class="btn" id="next">下一張 →</button>
+      </div>
+      <p class="keys">空白鍵翻面 · ← → 換卡</p>
+    </section>
+
+    <!-- 猜性別模式 -->
+    <section id="gender-view" hidden>
+      <div class="card"><div class="face" id="g-face"></div></div>
+      <div class="choices">
+        <button class="choice g-der" data-g="der">der</button>
+        <button class="choice g-die" data-g="die">die</button>
+        <button class="choice g-das" data-g="das">das</button>
+      </div>
+      <div class="feedback" id="g-feedback"></div>
+      <div class="controls">
+        <span class="score" id="g-score"></span>
+        <span class="progress" id="g-progress"></span>
+        <button class="btn primary" id="g-next">下一題 →</button>
+      </div>
+      <p class="keys">按 1 / 2 / 3 選 der / die / das · Enter 下一題</p>
+    </section>
+
+    <div class="legend centered">
+      <span class="g-der">der 陽性</span>
+      <span class="g-die">die 陰性</span>
+      <span class="g-das">das 中性</span>
+    </div>
+  </main>
+  <script src="js/common.js"></script>
+  <script src="js/practice.js"></script>
+</body>
+</html>

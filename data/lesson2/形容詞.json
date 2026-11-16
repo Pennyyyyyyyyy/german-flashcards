@@ -1,0 +1,110 @@
+[
+  {
+    "id": "lesson2-20",
+    "word": "gut",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "好",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - A1"
+  },
+  {
+    "id": "lesson2-24",
+    "word": "super",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "超級棒的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - A1"
+  },
+  {
+    "id": "lesson2-39",
+    "word": "falsch",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "錯誤的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - B3"
+  },
+  {
+    "id": "lesson2-48",
+    "word": "geschieden",
+    "articles": [],
+    "plural": null,
+    "syllables": 3,
+    "zh": "離婚的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - C1"
+  },
+  {
+    "id": "lesson2-54",
+    "word": "alt",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "老的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-57",
+    "word": "ledig",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "單身的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-61",
+    "word": "geboren",
+    "articles": [],
+    "plural": null,
+    "syllables": 3,
+    "zh": "出生的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-63",
+    "word": "verwitwet",
+    "articles": [],
+    "plural": null,
+    "syllables": 3,
+    "zh": "鰥寡的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-64",
+    "word": "verheiratet",
+    "articles": [],
+    "plural": null,
+    "syllables": 4,
+    "zh": "已婚的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion2 - D3"
+  }
+]

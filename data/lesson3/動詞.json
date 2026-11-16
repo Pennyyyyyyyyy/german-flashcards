@@ -1,0 +1,122 @@
+[
+  {
+    "id": "lesson3-10",
+    "word": "brauchen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "需要",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - 2"
+  },
+  {
+    "id": "lesson3-11",
+    "word": "kaufen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "買",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - 2"
+  },
+  {
+    "id": "lesson3-14",
+    "word": "helfen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "幫忙",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - 3"
+  },
+  {
+    "id": "lesson3-54",
+    "word": "kosten",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "價值（多少錢）",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - D3"
+  },
+  {
+    "id": "lesson3-69",
+    "word": "essen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "吃",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - E2"
+  },
+  {
+    "id": "lesson3-82",
+    "word": "kochen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "煮菜",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-85",
+    "word": "reichen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "足夠",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-87",
+    "word": "schmecken",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "嚐起來",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-90",
+    "word": "trinken",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "喝",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-93",
+    "word": "studieren",
+    "articles": [],
+    "plural": null,
+    "syllables": 3,
+    "zh": "讀大學",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion3 - E3"
+  }
+]

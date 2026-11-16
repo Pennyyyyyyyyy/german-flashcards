@@ -1,0 +1,534 @@
+[
+  {
+    "id": "lesson2-3",
+    "word": "Park",
+    "articles": [
+      "der"
+    ],
+    "plural": "Parks",
+    "syllables": 1,
+    "zh": "公園",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 1"
+  },
+  {
+    "id": "lesson2-5",
+    "word": "Lehrer",
+    "articles": [
+      "der"
+    ],
+    "plural": "Lehrer",
+    "syllables": 2,
+    "zh": "老師",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 1"
+  },
+  {
+    "id": "lesson2-7",
+    "word": "Pause",
+    "articles": [
+      "die"
+    ],
+    "plural": "Pausen",
+    "syllables": 2,
+    "zh": "休息",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 1"
+  },
+  {
+    "id": "lesson2-8",
+    "word": "Lehrerin",
+    "articles": [
+      "die"
+    ],
+    "plural": "Lehrerinnen",
+    "syllables": 3,
+    "zh": "女教師",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 1"
+  },
+  {
+    "id": "lesson2-10",
+    "word": "Jahr",
+    "articles": [
+      "das"
+    ],
+    "plural": "Jahre",
+    "syllables": 1,
+    "zh": "年",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-11",
+    "word": "Bruder",
+    "articles": [
+      "der"
+    ],
+    "plural": "Brüder",
+    "syllables": 2,
+    "zh": "兄弟",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-12",
+    "word": "Eltern",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "雙親",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-14",
+    "word": "Mutter",
+    "articles": [
+      "die"
+    ],
+    "plural": "Mütter",
+    "syllables": 2,
+    "zh": "母親",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-15",
+    "word": "Vater",
+    "articles": [
+      "der"
+    ],
+    "plural": "Väter",
+    "syllables": 2,
+    "zh": "父親",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-16",
+    "word": "Geschwister",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 3,
+    "zh": "兄弟姐妹",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-17",
+    "word": "Großeltern",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 3,
+    "zh": "祖父母",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-18",
+    "word": "Familie",
+    "articles": [
+      "die"
+    ],
+    "plural": "Familien",
+    "syllables": 4,
+    "zh": "家庭",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - 3"
+  },
+  {
+    "id": "lesson2-25",
+    "word": "Kind",
+    "articles": [
+      "das"
+    ],
+    "plural": "Kinder",
+    "syllables": 1,
+    "zh": "小孩",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-26",
+    "word": "Mann",
+    "articles": [
+      "der"
+    ],
+    "plural": "Männer",
+    "syllables": 1,
+    "zh": "人",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-27",
+    "word": "Sohn",
+    "articles": [
+      "der"
+    ],
+    "plural": "Söhne",
+    "syllables": 1,
+    "zh": "兒子",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-28",
+    "word": "Enkel",
+    "articles": [
+      "der"
+    ],
+    "plural": "Enkel",
+    "syllables": 2,
+    "zh": "孫子",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-29",
+    "word": "Oma",
+    "articles": [
+      "die"
+    ],
+    "plural": "Omas",
+    "syllables": 2,
+    "zh": "祖母、外婆（暱稱）",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-30",
+    "word": "Opa",
+    "articles": [
+      "der"
+    ],
+    "plural": "Opas",
+    "syllables": 2,
+    "zh": "祖父、外公（暱稱）",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-31",
+    "word": "Schwester",
+    "articles": [
+      "die"
+    ],
+    "plural": "Schwestern",
+    "syllables": 2,
+    "zh": "姊妹",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-32",
+    "word": "Tochter",
+    "articles": [
+      "die"
+    ],
+    "plural": "Töchter",
+    "syllables": 2,
+    "zh": "女兒",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-33",
+    "word": "Enkelin",
+    "articles": [
+      "die"
+    ],
+    "plural": "Enkelinnen",
+    "syllables": 3,
+    "zh": "孫女",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-34",
+    "word": "Großmutter",
+    "articles": [
+      "die"
+    ],
+    "plural": "Großmütter",
+    "syllables": 3,
+    "zh": "祖母",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-35",
+    "word": "Großvater",
+    "articles": [
+      "der"
+    ],
+    "plural": "Großväter",
+    "syllables": 3,
+    "zh": "祖父",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B1"
+  },
+  {
+    "id": "lesson2-41",
+    "word": "Liste",
+    "articles": [
+      "die"
+    ],
+    "plural": "Listen",
+    "syllables": 2,
+    "zh": "清單",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B3"
+  },
+  {
+    "id": "lesson2-42",
+    "word": "Ehemann",
+    "articles": [
+      "der"
+    ],
+    "plural": "Ehemänner",
+    "syllables": 3,
+    "zh": "丈夫",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B3"
+  },
+  {
+    "id": "lesson2-43",
+    "word": "Ehefrau",
+    "articles": [
+      "die"
+    ],
+    "plural": "Ehefrauen",
+    "syllables": 3,
+    "zh": "太太",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - B3"
+  },
+  {
+    "id": "lesson2-52",
+    "word": "Null",
+    "articles": [
+      "die"
+    ],
+    "plural": "Nullen",
+    "syllables": 1,
+    "zh": "零",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - D1"
+  },
+  {
+    "id": "lesson2-53",
+    "word": "Zahl",
+    "articles": [
+      "die"
+    ],
+    "plural": "Zahlen",
+    "syllables": 1,
+    "zh": "數字",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - D1"
+  },
+  {
+    "id": "lesson2-56",
+    "word": "Alter",
+    "articles": [
+      "das"
+    ],
+    "plural": null,
+    "syllables": 2,
+    "zh": "年紀",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-59",
+    "word": "Nummer",
+    "articles": [
+      "die"
+    ],
+    "plural": "Nummern",
+    "syllables": 2,
+    "zh": "號碼",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-60",
+    "word": "Wohnort",
+    "articles": [
+      "der"
+    ],
+    "plural": "Wohnorte",
+    "syllables": 2,
+    "zh": "居住地",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-62",
+    "word": "Geburtsort",
+    "articles": [
+      "der"
+    ],
+    "plural": "Geburtsorte",
+    "syllables": 3,
+    "zh": "出生地",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-65",
+    "word": "Familienstand",
+    "articles": [
+      "der"
+    ],
+    "plural": null,
+    "syllables": 5,
+    "zh": "家庭狀況",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - D3"
+  },
+  {
+    "id": "lesson2-66",
+    "word": "Hauptstadt",
+    "articles": [
+      "die"
+    ],
+    "plural": "Hauptstädte",
+    "syllables": 2,
+    "zh": "首都",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - E1"
+  },
+  {
+    "id": "lesson2-67",
+    "word": "Arzt",
+    "articles": [
+      "der"
+    ],
+    "plural": "Ärzte",
+    "syllables": 1,
+    "zh": "男醫生",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - E2"
+  },
+  {
+    "id": "lesson2-74",
+    "word": "Partner",
+    "articles": [
+      "der"
+    ],
+    "plural": "Partner",
+    "syllables": 2,
+    "zh": "夥伴、伴侶",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - E2"
+  },
+  {
+    "id": "lesson2-76",
+    "word": "Partnerin",
+    "articles": [
+      "die"
+    ],
+    "plural": "Partnerinnen",
+    "syllables": 3,
+    "zh": "女夥伴、女伴侶",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - E2"
+  },
+  {
+    "id": "lesson2-77",
+    "word": "Polizei",
+    "articles": [
+      "die"
+    ],
+    "plural": null,
+    "syllables": 3,
+    "zh": "警察",
+    "pos": [
+      "名詞"
+    ],
+    "ref": "Lektion2 - E2"
+  }
+]

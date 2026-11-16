@@ -1,0 +1,184 @@
+[
+  {
+    "id": "lesson1",
+    "number": 1,
+    "title": "第一課",
+    "source": "第一課單字(全).xlsx",
+    "count": 66,
+    "pos": [
+      {
+        "name": "名詞",
+        "file": "名詞.json",
+        "count": 40
+      },
+      {
+        "name": "動詞",
+        "file": "動詞.json",
+        "count": 6
+      },
+      {
+        "name": "助詞",
+        "file": "助詞.json",
+        "count": 4
+      },
+      {
+        "name": "未分類",
+        "file": "未分類.json",
+        "count": 4
+      },
+      {
+        "name": "介詞",
+        "file": "介詞.json",
+        "count": 3
+      },
+      {
+        "name": "疑問副詞",
+        "file": "疑問副詞.json",
+        "count": 3
+      },
+      {
+        "name": "代詞",
+        "file": "代詞.json",
+        "count": 2
+      },
+      {
+        "name": "副詞",
+        "file": "副詞.json",
+        "count": 1
+      },
+      {
+        "name": "形容詞",
+        "file": "形容詞.json",
+        "count": 1
+      },
+      {
+        "name": "疑問代詞",
+        "file": "疑問代詞.json",
+        "count": 1
+      },
+      {
+        "name": "連詞",
+        "file": "連詞.json",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "lesson2",
+    "number": 2,
+    "title": "第二課",
+    "source": "第二課單字(全).xlsx",
+    "count": 76,
+    "pos": [
+      {
+        "name": "名詞",
+        "file": "名詞.json",
+        "count": 38
+      },
+      {
+        "name": "副詞",
+        "file": "副詞.json",
+        "count": 10
+      },
+      {
+        "name": "形容詞",
+        "file": "形容詞.json",
+        "count": 9
+      },
+      {
+        "name": "動詞",
+        "file": "動詞.json",
+        "count": 6
+      },
+      {
+        "name": "代詞",
+        "file": "代詞.json",
+        "count": 4
+      },
+      {
+        "name": "所有格 代詞",
+        "file": "所有格代詞.json",
+        "count": 3
+      },
+      {
+        "name": "助詞",
+        "file": "助詞.json",
+        "count": 2
+      },
+      {
+        "name": "嘆詞",
+        "file": "嘆詞.json",
+        "count": 2
+      },
+      {
+        "name": "介詞",
+        "file": "介詞.json",
+        "count": 1
+      },
+      {
+        "name": "疑問副詞",
+        "file": "疑問副詞.json",
+        "count": 1
+      },
+      {
+        "name": "連詞",
+        "file": "連詞.json",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "id": "lesson3",
+    "number": 3,
+    "title": "第三課",
+    "source": "第三課單字(全).xlsx",
+    "count": 94,
+    "pos": [
+      {
+        "name": "名詞",
+        "file": "名詞.json",
+        "count": 72
+      },
+      {
+        "name": "動詞",
+        "file": "動詞.json",
+        "count": 10
+      },
+      {
+        "name": "形容詞",
+        "file": "形容詞.json",
+        "count": 5
+      },
+      {
+        "name": "副詞",
+        "file": "副詞.json",
+        "count": 2
+      },
+      {
+        "name": "不定代詞",
+        "file": "不定代詞.json",
+        "count": 1
+      },
+      {
+        "name": "不定冠詞",
+        "file": "不定冠詞.json",
+        "count": 1
+      },
+      {
+        "name": "介詞",
+        "file": "介詞.json",
+        "count": 1
+      },
+      {
+        "name": "名詞前綴字",
+        "file": "名詞前綴字.json",
+        "count": 1
+      },
+      {
+        "name": "疑問副詞",
+        "file": "疑問副詞.json",
+        "count": 1
+      }
+    ]
+  }
+]

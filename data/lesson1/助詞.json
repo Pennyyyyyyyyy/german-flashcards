@@ -1,0 +1,50 @@
+[
+  {
+    "id": "lesson1-21",
+    "word": "ja",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "是",
+    "pos": [
+      "助詞"
+    ],
+    "ref": "Lektion1 - B4"
+  },
+  {
+    "id": "lesson1-22",
+    "word": "nein",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "不是",
+    "pos": [
+      "助詞"
+    ],
+    "ref": "Lektion1 - B4"
+  },
+  {
+    "id": "lesson1-35",
+    "word": "aha",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "啊哈",
+    "pos": [
+      "助詞"
+    ],
+    "ref": "Lektion1 - C2"
+  },
+  {
+    "id": "lesson1-42",
+    "word": "bitte",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "請",
+    "pos": [
+      "助詞"
+    ],
+    "ref": "Lektion1 - D2"
+  }
+]

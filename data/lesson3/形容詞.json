@@ -1,0 +1,62 @@
+[
+  {
+    "id": "lesson3-77",
+    "word": "ganz",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "完全",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-78",
+    "word": "groß",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "大的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-80",
+    "word": "einfach",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "簡單的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-89",
+    "word": "teuer",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "昂貴的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion3 - E3"
+  },
+  {
+    "id": "lesson3-91",
+    "word": "typisch",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "典型的",
+    "pos": [
+      "形容詞"
+    ],
+    "ref": "Lektion3 - E3"
+  }
+]

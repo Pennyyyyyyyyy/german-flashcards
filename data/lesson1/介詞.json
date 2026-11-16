@@ -1,0 +1,38 @@
+[
+  {
+    "id": "lesson1-7",
+    "word": "bei",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "鄰近；在(某處)",
+    "pos": [
+      "介詞"
+    ],
+    "ref": "Lektion1 - A2"
+  },
+  {
+    "id": "lesson1-25",
+    "word": "aus",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "自、從",
+    "pos": [
+      "介詞"
+    ],
+    "ref": "Lektion1 - C1"
+  },
+  {
+    "id": "lesson1-28",
+    "word": "von",
+    "articles": [],
+    "plural": null,
+    "syllables": 1,
+    "zh": "自、從",
+    "pos": [
+      "介詞"
+    ],
+    "ref": "Lektion1 - C1"
+  }
+]

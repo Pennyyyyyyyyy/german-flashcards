@@ -1,0 +1,74 @@
+[
+  {
+    "id": "lesson1-13",
+    "word": "willkommen",
+    "articles": [],
+    "plural": null,
+    "syllables": 3,
+    "zh": "歡迎",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion1 - A2"
+  },
+  {
+    "id": "lesson1-16",
+    "word": "heißen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "名叫",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion1 - B1"
+  },
+  {
+    "id": "lesson1-24",
+    "word": "wissen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "知道",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion1 - B4"
+  },
+  {
+    "id": "lesson1-31",
+    "word": "kommen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "來",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion1 - C1"
+  },
+  {
+    "id": "lesson1-39",
+    "word": "sprechen",
+    "articles": [],
+    "plural": null,
+    "syllables": 2,
+    "zh": "說(語言)",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion1 - C4"
+  },
+  {
+    "id": "lesson1-43",
+    "word": "buchstabieren",
+    "articles": [],
+    "plural": null,
+    "syllables": 4,
+    "zh": "拼讀出",
+    "pos": [
+      "動詞"
+    ],
+    "ref": "Lektion1 - D2"
+  }
+]
